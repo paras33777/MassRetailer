@@ -1,0 +1,256 @@
+/* 
+  Localizable.strings
+  BBC Retail
+
+  Created by Prashant Kumar on 12/12/22.
+  
+*/
+"Cancel" = "Cancel";
+"Error" = "Error";
+"CameraAccessisDenied" = "Camera access is denied";
+"Settings" =   "Settings";
+
+//AddProductController
+
+//ProductListController
+"OfferPrice" = "Offer Price: ";
+"Package1" = "Package: ";
+
+//ProductListController
+"ScanBarcode" = "Scan Barcode";
+"EditProduct" =    "Edit Product";
+
+"ProductName*" = "Product Name *";
+"MainCategory*" = "Main Category *";
+"Quantity*" = "Quantity *";
+"OfferPrice*" = "Offer Price *";
+"StandardPrice*" = "Standard Price *";
+"CostPrice*" = "Cost Price *";
+"Currency*" = "Currency *";
+"UpdateProduct" = "Update Product";
+
+"EditTax" = "  Edit Tax";
+"Description*" = "Description *";
+"ProductAddedSuccessfully!" = "Product added successfully!";
+"ProductUpdatedSuccessfully" = "Product updated successfully!";
+
+"PleaseSelectProductImage" = "Please select product image";
+"StandardpricecantbeequalToZero" = "Standard price can't be equal to zero";
+
+"Offerpricecantbgeaterthanstandardprice" = "Offer price can't be geater than standard price";
+
+"Costpricecantbeequaltozero" = "Cost price can't be equal to zero";
+"Costpricecantbegreaterthanstandardprice" = "Cost price can't be greater than standard price";
+
+"Addyourproducttax" = "Add your product tax";
+"Pleaseselectmaincategoryfirst" = "Please select main category first";
+
+
+"SelectSubCategory" = "SelectSubCategory";
+
+"Barcodescannedsuccessfully" = "Barcode scanned successfully";
+"InvalidQRCode" = "Invalid QR Code";
+
+
+"Package" = "Package";
+"Unitofmeasurement" = "Unit of measurement *";
+"packageQuantity" = "Package Quantity *";
+"PackageOfferPrice" = "Package Offer Price *";
+
+"SelectUnitOfMeasurement" = "Select Unit of Measurement";
+//End AddProductController
+
+//Start InventoryViewController
+"SelectStatus" ="Select Status";
+"EnterQuantity" = "Enter Quantity";
+"AvailableQuantityis0" = "Available quantity is 0";
+"Availablequantityislessthan1" = "Available quantity is less than 1";
+
+"GoodIssuedquantitycantbemorethan" = "Quantity of Good Issued can not be greater than available quantity!!";
+"GoodReceiptquantitycantbemorethan" = "Quantity of Good Receipt can not be greater than available quantity!!";
+
+"SelectMovementType" = "Select Movement Type";
+"EnterComment" = "Enter Comment";
+"EnterStandardPrice" = "Enter Standard Price";
+
+"SelectStore" = "Select Store";
+"SelectProduct" = "Select Product";
+
+"StockTransportquantitycantbemorethan" = "Quantity of Stock Transport can not be greater than available quantity!!";
+"EnterCostPrice" = "Enter Cost Price";
+
+"EnterOfferPrice" = "Enter Offer Price";
+
+"CostPriceShouldbelessthanStandardPrice" = "Cost Price Should be less than Standard Price";
+
+"OfferPriceshouldbelessthanStandardPrice" = "Offer Price should be less than Standard Price";
+
+"PhysicalInventoryquantitycantbemorethan" = "Quantity of Physical Inventory can not be greater than available quantity!!";
+
+"EnterStandardPrice" = "Enter Standard Price";
+
+
+//End InventoryViewController
+
+
+//Settlement
+
+"SNo" = "S No";
+"OrderID" = "Order ID";
+"DateTime" = "Date & Time";
+"NetAmount" = "Net Amount";
+"TotalAmount" = "Total Amount:";
+"Settlement" = "Settlement";
+"SettlementReport" = "Settlement Report";
+"doYouSettlement" = "Do you want to settle your amount?";
+"SettleAmount" = "Settle Amount";
+
+
+//DealList
+"DealId" = "Sales Order Id:";
+"RetailerProductProcess" = "Retailer Product Process";
+"QuantityS" = "Quantity:";
+"ProductName" = "Product Name:";
+"AmountS" = "Amount: ";
+"DealList" = "Deal List";
+//Add Deal List
+ 
+ "Title" = "Title*";
+
+"Material" = "Material*";
+
+"DeliveryDate" = "Delivery Date*";
+"Description" = "Description*";
+"Add" = "Add";
+//Add Deal List
+
+//Detail Deal List
+"Deal" = "Deal";
+"Store" = "Store";
+"Logs" = "Logs";
+"WorkFlow" = "WorkFlow";
+"SalesOrder" = "Sales Order";
+//Detail Deal List
+"ServiceGroup" = "Service Group";
+"ProductName" = "Product Name";
+"Quantity" = "Quantity";
+"Amount" = "Amount";
+"StoreName" = "Store Name";
+"SalesOrderDetail" = "Sales Order Detail";
+
+"dealOrderID" = "Order id: ";
+"dealDealID" = "Deal id: ";
+
+"dealStoreID" = "Store id: ";
+"dealRetailerID" = "Retailer id: ";
+
+"dealStoreName" = "Store Name: ";
+"dealType" = "Type: ";
+"dealLocation" = "Location: ";
+
+"dealCategory" = "Category: ";
+"dealPaymentMethod" = "Payment Method: ";
+
+"dealLogSalesOrderID" = "Sales Order ID: ";
+"dealStatus" = "Status: ";
+"dealDate" = "Date: ";
+
+"StatusChangesto" = "Status Changes to";
+"AddLogs" = "+ Add Logs";
+
+
+"AddLogs" = "Add Logs";
+"SelectStatus" = "Select Status";
+"UpdateStatusFor" = "Update status for ";
+"Add" = "Add";
+"EnterComment" = "Enter Comment";
+"PleaseEnterComment" = "Please Enter Comment";
+
+"PleaseSelectStatus" = "Please select status";
+
+"Orderid" = "Order id:";
+"WorkOrder" = "Work Order";
+
+
+
+//Detail Deal List
+//AddProductManfacturingViewController
+"dealAddProduct" = "Add Product";
+"AddRawMaterial" = "Add Raw Material";
+"GrandCategory" = "Grand Category";
+"AddMaterial" = "Add Material";
+"PleaseAddMaterial" = "Please Add Material";
+"PleaseSelectGrandCategory" = "Please select Grand Category";
+"SelectGrandCategory" = "Select Grand Category";
+"PleaseSelectSubCategory" = "Please select sub Category";
+
+"EnterMaterialName" = "Enter Material Name";
+"EnterMaterialPrice" = "Enter Material Price";
+"EnterMaterialPrice" = "Enter Material Price";
+"PleaseEnterMaterialName" = "Please Enter Material Name";
+"PleaseEnterMaterialPrice" = "Please Enter Material Price";
+"PleaseEnterMaterialPrice" = "Please Enter Material Price";
+"AddMaterial" = "Add Material";
+
+"AddMaSelectRawMaterialterial" = "Select Raw Material";
+"Save" = "Save";
+"PleaseSelectMaterial" = "Please select Material";
+"Qty" = "Qty: ";
+"PleaseSelectQuantity" = "Select Quantity";
+//AddProductManfacturingViewController
+
+
+//manfacturing Add Product
+
+"Material" = "Material";
+"ProductDescription" = "Product Description";
+"EditMaterial" = "Edit Material";
+"ProductDetail" = "Product Detail";
+"ProductList" = "Product List";
+"AddMaterial" = "Add Material";
+
+
+//manfacturing Add Deal
+"AddSalesOrder" = "Add Sales Order";
+"AddUser" = "Add User*";
+"SaleOrderProductName" = "Product Name*";
+"SaleOrderTitle" = "Title*";
+"SaleOrderAmount" = "Amount*";
+"SaleOrderDeliverDate" = "Delivery Date*";
+"SaleOrderQuantity" = "Quantity*";
+"SaleOrderDescription" = "Description*";
+"SaleOrderAdd" = "Add";
+
+
+"userFieldEmpty" =  "Please select user";
+"titleFieldEmpty" = "Please enter Title";
+"ProductNameFieldEmpty" = "Please select Product Name";
+"AmountFieldEmpty" = "Please enter Amount";
+"DeliveryDateFieldEmpty" = "Please select Delivery date";
+"QuantityFieldEmpty" = "Please enter Quantity";
+"DescriptionFieldEmpty" = "Please enter Description";
+
+"MaterialEmpty" = "There is no material availavle for this product,Please select  another product";
+
+"Typehere" =  "Type here...";
+// Add Deal
+
+//User
+"SelectUsers" =  "Select Users";
+"Users" =  "Users";
+"AddUsers" =  "Add User";
+"UpdateUser" =  "Update User";
+"SelectProductName" =  "Select Product Name";
+//User
+
+
+"Firstname" =  "First name *";
+"Lastname" =   "Last name *";
+"Email" =   "Email *";
+"CountryCode" =   "Country Code *";
+"MobileNumber" =   "Mobile Number *";
+"MobileNumber" =   "Mobile Number *";
+
+//StoreList
+"StoreList" =   "Store List";
+//StoreList
